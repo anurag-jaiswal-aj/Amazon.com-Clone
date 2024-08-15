@@ -1,0 +1,1 @@
+Dive into the world of e-commerce web development with my Amazon Clone project. Crafted with HTML and CSS, this endeavor reflects my commitment to mastering front-end development as an aspiring web developer.
